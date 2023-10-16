@@ -33,7 +33,7 @@
 
 ## Articles
 
-- [Managing Secrets in Lamnda](https://medium.com/@sabaniflorian/how-to-securely-pass-secrets-to-lambda-aws-cdk-186599049262)
+- [Managing Secrets in Lambda](https://medium.com/@sabaniflorian/how-to-securely-pass-secrets-to-lambda-aws-cdk-186599049262)
 - [Managing Secrets in OpenShift](https://xphyr.net/post/infisical_ocp/)
 - [Secret Management Introduction](https://hansdev.kr/tech/infisical-introduction/)
 - [Deploying Infisical on OpenShift with Helm](https://xphyr.net/post/running_infisical_app_on_ocp/)
