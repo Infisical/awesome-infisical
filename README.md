@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="160" src="https://github.com/Infisical/awesome-infisical/assets/78047717/a211c734-0fd0-4226-9dc8-5fd49eacf699" alt="logo of awesome-infisical repository">
+  <img width="160" src="./infisical-logo.png" alt="logo of awesome-infisical repository">
   <br>
   <br>
 </p>
