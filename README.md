@@ -6,15 +6,14 @@
 </p>
 <h1 align='center'>
   Awesome Infisical 😎
-  <br>
 </h1>
 
 <h2 align='center'>
   ⚡️ A curated list of awesome things related to Infisical
-  <br>
 </h2>
 
-Infisical is the #1 open-source secret management platform for developers.
+
+<h4 align='center'> <a href="https://infisical.com"> Infisical </a> is the #1 open-source secret management platform for developers: sync secrets across your team/infrastructure and prevent secret leaks.</h4>
 
 
 ## Contents
