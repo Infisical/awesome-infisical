@@ -5,7 +5,7 @@
   <br>
 </p>
 <h1 align='center'>
-  Awesome Infisical
+  Awesome Infisical 😎
   <br>
 </h1>
 
